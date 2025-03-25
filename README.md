@@ -1,4 +1,4 @@
-# ThemeToggle Component Initial State Matrix (Corrected)
+# ThemeToggle Component Initial State Matrix
 
 | enforce_default | default_to_server | enable_auto | default_theme | server_setting | Result              |
 |-----------------|-------------------|-------------|---------------|----------------|---------------------|
