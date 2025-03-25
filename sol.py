@@ -31,8 +31,8 @@ def Page():
     ThemeToggle(
         on_icon="mdi-weather-night", # dark mode icon
         off_icon="mdi-brightness-7", # light mode icon
-        enable_auto=True,
-        default_theme='dark',
-        default_to_server=False,
-        enforce_default=False,
+        enable_auto=False,
+        # default_theme='light',
+        default_to_server=True,
+        # enforce_default=True,
     )
